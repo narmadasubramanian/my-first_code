@@ -1,0 +1,50 @@
+.navbar {
+    min-height: 38px;
+background-color:grey;
+}
+
+.navigation{
+    background-color: indianred;
+    padding: 10px 20px;
+    display: inline-block;
+    text-align: center;
+}
+
+.left{
+    float: left;
+    width: 29% ; 
+    height: 700px;
+    background-color: grey;
+}
+
+.top{
+    float: left;
+    width: 29% ; 
+    height: 700px;
+    background-color: red;
+    padding-top: 15px;
+}
+
+.bottom{
+ 
+    height: 700px;
+    background-color: blueviolet;
+    
+}
+
+.main{
+    float: left;
+    width: 69% ; 
+    height: 700px;
+    background-color: aqua;
+
+}
+
+.gallery{
+    display: inline-block;
+    min-height: 400px;
+    margin-top: 50px;
+    text-align: center;
+    height: 50px;
+}
+
